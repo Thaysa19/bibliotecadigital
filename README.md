@@ -1,0 +1,2 @@
+# bibliotecadigital
+Sistema de gerenciamento de biblioteca digital em Python
